@@ -5,5 +5,4 @@
 </p>
 
 ## Summary
-
-Elaborate that deals with and groups the historical evolution of the location, both indoor and outdoor
+I contributed, with my team, to the creation of 1001storia new platform, a Policultura project. (https://www.policultura.it/)
